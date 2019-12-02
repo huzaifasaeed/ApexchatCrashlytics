@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "572593746185",
+    "firebase_url": "https://apexchat-crashlytics.firebaseio.com",
+    "project_id": "apexchat-crashlytics",
+    "storage_bucket": "apexchat-crashlytics.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:572593746185:android:bc1f85573ad6c8c48663d8",
+        "android_client_info": {
+          "package_name": "com.companyname.apexchatcrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "572593746185-q1d8rpk6llhedojfs8e5nq6kfe0e4d0j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgkQWb0OiFW7bfVPJYj3JzUOVPspho-W4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "572593746185-q1d8rpk6llhedojfs8e5nq6kfe0e4d0j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

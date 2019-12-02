@@ -1,0 +1,179 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.Android\\ApexchatCrashlytics.Android.csproj": {}
+  },
+  "projects": {
+    "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.Android\\ApexchatCrashlytics.Android.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.Android\\ApexchatCrashlytics.Android.csproj",
+        "projectName": "ApexchatCrashlytics.Android",
+        "projectPath": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.Android\\ApexchatCrashlytics.Android.csproj",
+        "packagesPath": "C:\\Users\\Huzeifa Saeed\\.nuget\\packages\\",
+        "outputPath": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.Android\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Huzeifa Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "monoandroid90"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "monoandroid90": {
+            "projectReferences": {
+              "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.csproj": {
+                "projectPath": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.csproj"
+              }
+            }
+          }
+        }
+      },
+      "frameworks": {
+        "monoandroid90": {
+          "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Xamarin.Android.Crashlytics": {
+              "target": "Package",
+              "version": "[2.9.4.1, )"
+            },
+            "Xamarin.Android.Crashlytics.Answers": {
+              "target": "Package",
+              "version": "[1.4.2, )"
+            },
+            "Xamarin.Android.Crashlytics.Beta": {
+              "target": "Package",
+              "version": "[1.2.9, )"
+            },
+            "Xamarin.Android.Crashlytics.Core": {
+              "target": "Package",
+              "version": "[2.6.3, )"
+            },
+            "Xamarin.Android.Fabric": {
+              "target": "Package",
+              "version": "[1.4.3, )"
+            },
+            "Xamarin.Android.Support.Core.Utils": {
+              "target": "Package",
+              "version": "[28.0.0.1, )"
+            },
+            "Xamarin.Build.Download": {
+              "target": "Package",
+              "version": "[0.4.12-preview3, )"
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Firebase.Analytics": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            },
+            "Xamarin.Firebase.Analytics.Impl": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            },
+            "Xamarin.Firebase.Core": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            },
+            "Xamarin.Firebase.Perf": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            },
+            "Xamarin.GooglePlayServices.Base": {
+              "target": "Package",
+              "version": "[60.1142.1, )"
+            }
+          }
+        }
+      }
+    },
+    "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.csproj",
+        "projectName": "ApexchatCrashlytics",
+        "projectPath": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics.csproj",
+        "packagesPath": "C:\\Users\\Huzeifa Saeed\\.nuget\\packages\\",
+        "outputPath": "E:\\ApexchatCrashlytics\\ApexchatCrashlytics\\ApexchatCrashlytics\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Huzeifa Saeed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.3"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.3": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.3": {
+          "dependencies": {
+            "Microsoft.AppCenter.Analytics": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "Microsoft.AppCenter.Crashes": {
+              "target": "Package",
+              "version": "[2.1.1, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Essentials": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "Xamarin.Forms": {
+              "target": "Package",
+              "version": "[4.2.0.709249, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

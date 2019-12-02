@@ -1,0 +1,13 @@
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\bin\Debug\netstandard1.3\ApexchatCrashlytics.deps.json
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\bin\Debug\netstandard1.3\ApexchatCrashlytics.dll
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\bin\Debug\netstandard1.3\ref\ApexchatCrashlytics.dll
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\bin\Debug\netstandard1.3\ApexchatCrashlytics.pdb
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\App.xaml.g.cs
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\MainPage.xaml.g.cs
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\ApexchatCrashlytics.AssemblyInfoInputs.cache
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\ApexchatCrashlytics.AssemblyInfo.cs
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\XamlC.stamp
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\ApexchatCrashlytics.dll
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\ref\ApexchatCrashlytics.dll
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\ApexchatCrashlytics.pdb
+E:\ApexchatCrashlytics\ApexchatCrashlytics\ApexchatCrashlytics\obj\Debug\netstandard1.3\ApexchatCrashlytics.csprojAssemblyReference.cache
